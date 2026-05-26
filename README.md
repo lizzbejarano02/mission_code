@@ -1,5 +1,7 @@
 # 🎮 MISSION CODE :Plataforma Gamificada para Aprendizaje de Ingeniería de Software
 
+<img width="921" height="485" alt="image" src="https://github.com/user-attachments/assets/d02d0500-b501-4df0-afa6-82beff5f68f8" />
+
 ## 📖 Descripción
 Proyecto desarrollado con **Django + Django REST Framework + Flutter + MySQL Workbench** para crear una plataforma gamificada orientada al aprendizaje de Ingeniería de Software mediante niveles, misiones y retos interactivos.
 
@@ -226,7 +228,6 @@ backend/
 │
 frontend/
 │
-database/
 ```
 
 ---
