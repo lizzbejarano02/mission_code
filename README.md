@@ -73,17 +73,8 @@ https://code.visualstudio.com/
 
 ---
 
-## 4. XAMPP
-Descargar desde:
-https://www.apachefriends.org/index.html
 
-Servicios utilizados:
-- Apache
-- MySQL
-
----
-
-## 5. MySQL Workbench
+## 4. MySQL Workbench
 Descargar desde:
 https://dev.mysql.com/downloads/workbench/
 
