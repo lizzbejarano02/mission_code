@@ -24,7 +24,6 @@ La plataforma incluye:
 - Django
 - Django REST Framework
 - MySQL
-- XAMPP
 - MySQL Workbench
 
 ## Frontend
